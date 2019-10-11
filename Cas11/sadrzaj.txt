@@ -1,0 +1,5 @@
+# Čas 11
+
+## Sadržaj
+
+- Obrađujemo osvnovne komande gita
