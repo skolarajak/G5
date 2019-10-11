@@ -9,3 +9,4 @@ Remotely updated file.
 Testing sync using git fetch + git merge
 
 Овде ће настати карамбол.
+Trying to make a merge conflict.
