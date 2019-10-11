@@ -5,3 +5,5 @@
 - Obrađujemo osvnovne komande gita
 
 Remotely updated file.
+
+Testing sync using git fetch + git merge
