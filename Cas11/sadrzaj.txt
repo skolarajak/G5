@@ -3,3 +3,5 @@
 ## Sadržaj
 
 - Obrađujemo osvnovne komande gita
+
+Remotely updated file.
