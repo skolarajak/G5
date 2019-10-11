@@ -7,3 +7,5 @@
 Remotely updated file.
 
 Testing sync using git fetch + git merge
+
+Trying to make a merge conflict.
